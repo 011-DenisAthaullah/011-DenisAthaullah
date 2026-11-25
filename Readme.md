@@ -77,5 +77,5 @@ Administrative dashboard built with Laravel Filament for efficient data manageme
 I'm open to **full-time opportunities, freelance projects, and backend development collaborations**.
 
 * 📧 Email: denisath02@gmail.com
-* 💼 LinkedIn: www.linkedin.com/in/denis-athaullah-467818376
+* 💼 LinkedIn: www.linkedin.com/in/denis-athaullah
 * 🌐 Portfolio: https://portofolio-denis-athaullah.vercel.app/
